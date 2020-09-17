@@ -1,0 +1,8 @@
+def nameChange(root):
+  if (root has no children)
+      if name has wanted substring
+        fix name
+  if root has children
+    for children in root:
+      nameChange(root)
+  return
